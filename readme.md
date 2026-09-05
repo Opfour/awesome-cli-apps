@@ -68,6 +68,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Internet Speedtest](#internet-speedtest)
   - [Science](#science)
   - [Professional: Resume](#professional-resume)
+  - [Backup](#backup)
 - [Command Line Learning](#command-line-learning)
 - [Data Manipulation](#data-manipulation)
   - [Processors](#processors)
@@ -266,7 +267,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [docker-pushrm](https://github.com/christian-korneck/docker-pushrm) - Push a readme to container registries.
 - [ctop](https://github.com/bcicen/ctop) - Top like interface for container metrics.
 - [decompose](https://github.com/s0rg/decompose) - Create connections graph for running docker containers.
-- [kool](https://github.com/kool-dev/kool) - Web development with containers made easy. 
+- [kool](https://github.com/kool-dev/kool) - Web development with containers made easy.
 
 ### Release
 
@@ -308,7 +309,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [ain](https://github.com/jonaslu/ain) - HTTP client with a simple format to organize API endpoints.
 - [curlie](https://github.com/rs/curlie) - A curl frontend with the ease of use of HTTPie.
 - [ATAC](https://github.com/Julien-cpsn/ATAC) - A feature-full TUI API client made in Rust.
-- [httptap](https://github.com/ozeranskii/httptap) - Breakdown and visualize HTTP requests. 
+- [httptap](https://github.com/ozeranskii/httptap) - Breakdown and visualize HTTP requests.
 
 ### Testing
 
@@ -562,6 +563,11 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [resumx](https://github.com/resumx/resumx) - Markdown resume renderer with auto page-fitting.
 - [YAMLResume](https://github.com/yamlresume/yamlresume) - Resumes as code.
 
+### Backup
+
+- [shallow-backup](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
+- [Plakar](https://github.com/PlakarKorp/plakar) - An encrypted, deduplicated, verifiable, and scalable backup engine with no vendor lock-in.
+
 ## Command Line Learning
 
 - [cmdchallenge](https://cmdchallenge.com) - Presents small shell challenge with user submitted solutions.
@@ -749,7 +755,6 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [import-github-labels-cli](https://github.com/abhijithvijayan/import-github-labels-cli) - Sync labels between Github repos.
 - [git-all-branches](https://github.com/zacanger/git-all-branches) - Improved `git branch -a`.
 - [czg](https://github.com/Zhengqbbb/cz-git/tree/main/packages/cli) - Interactively generate standardized commit messages.
-- [shallow-backup](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
 - [lazygit](https://github.com/jesseduffield/lazygit) - Simple TUI for git commands.
 - [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - Informative and fancy bash prompt for Git users.
 - [gitui](https://github.com/extrawurst/gitui) - Blazing fast terminal-ui for git written in Rust.
